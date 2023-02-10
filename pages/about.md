@@ -8,26 +8,12 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About We Exist" %}
 
-## About CollectionBuilder CSV
+## About We Exist
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+*We Exist: African Americans' Education and Employment in Maine* is the fifth of a six-part digital exhibit series.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
-
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+We are indebted to our partners at the Osher Map Library (OML), University of Southern Maine (USM) Special Collections, and University of Southern Maine Libraries for their support in digitizing and building the exhibit site. This site was built by USM Libraries and Digital Projects staff. Mary Holt (Digital Projects Manager) administrator for the USM Digital Commons facilitated construction and organization of the exhibit; Paul Fuller (Digital Projects Associate) assisted with photographing many of the images featured in the exhibit;. Special thanks and gratitude are in order for Susie Bock (Coordinator of USM Special Collections and Director of the Jean Byers Sampson Center for Diversity in Maine) Zach Newell (Dean of Libraries and Learning), and Libby Bischof, Executive Director of the OML. Dr. Lance Gibbs served as the research lead for the project, providing historical background from news and scholarly references, and authoring the short contextual catalogue essay entries which complement the photos, written, and audio galleries.
