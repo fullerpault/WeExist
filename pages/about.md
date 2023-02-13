@@ -14,7 +14,7 @@ credits: true
 
 ## About We Exist
 
-*We Exist* is a 6-part series looking atthe history of Maine's African American communities.
+*We Exist* is a 6-part series looking at the history of Maine's African American communities.
 
 *We Exist: African Americans' Education and Employment in Maine* is the fifth of a six-part digital exhibit series.
 
