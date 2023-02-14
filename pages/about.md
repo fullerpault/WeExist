@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html %} 
 
-{% include feature/nav-menu.html sections="About We Exist" %}
+{% include feature/nav-menu.html sections="About We Exist;Acknowledgements" %}
 
 ## About We Exist
 
@@ -18,4 +18,14 @@ credits: true
 
 *We Exist: African Americans' Education and Employment in Maine* is the fifth of a six-part digital exhibit series.
 
-We are indebted to our partners at the Osher Map Library (OML), University of Southern Maine (USM) Special Collections, and University of Southern Maine Libraries for their support in digitizing and building the exhibit site. This site was built by USM Libraries and Digital Projects staff. Mary Holt (Digital Projects Manager) administrator for the USM Digital Commons facilitated construction and organization of the exhibit; Paul Fuller (Digital Projects Associate) assisted with photographing many of the images featured in the exhibit;. Special thanks and gratitude are in order for Susie Bock (Coordinator of USM Special Collections and Director of the Jean Byers Sampson Center for Diversity in Maine) Zach Newell (Dean of Libraries and Learning), and Libby Bischof, Executive Director of the OML. Dr. Lance Gibbs served as the research lead for the project, providing historical background from news and scholarly references, and authoring the short contextual catalogue essay entries which complement the photos, written, and audio galleries.
+### Acknowledgements
+
+We are indebted to our partners at the [Osher Map Library](https://oshermaps.org/), [University of Southern Maine Special Collections](https://usm.maine.edu/special-collections/), and [University of Southern Maine Libraries](https://usm.maine.edu/library/) for their support in digitizing and building the exhibit site. This site was built by Libraries & Learning Digital Projects staff with the assistance of Special Collections,  Libraries & Learning, and Osher Map Library staff.
+
+**Research scholar**: Dr. Lance Gibbs (Race & Ethnic Studies and Talbot Fellow for the Gerald E. Talbot and African American Collections)
+
+**Digital Projects staff**: Mary Holt (Digital Projects Manager) and Paul Fuller (Digital Projects Associate)
+
+**Imaging, content creation, and project assistance**: Carrie Bell-Hoerth (Coordinator of the Gorham Library & Learning Commons), Elizabeth Chartrand (Digital Projects Assistant), Jessica Hovey (Operations and Communications Specialist for Osher Map Library and Smith Center for Cartographic Education), Nora Imbrahim (Digital Imaging Assistant for Osher Map Library and Smith Center for Cartographic Education), Megan MacGregor (Instruction and Outreach Librarian), Sara Naziri (Digital Projects Assistant), Shiloh Parker (Library Collections Manager), and Jill Piekut Roy (Special Collections Librarian).
+
+**Administrative support**: Dr. Libby Bischof (Executive Director of Osher Map Library and Smith Center for Cartographic Education and Professor of History), Susie R. Bock (Coordinator of Special Collections and Director of the Jean Byers Sampson Center for Diversity in Maine), Zach Newell (Dean of Libraries & Learning, and David Nutty (Director Emeritus of Libraries & Learning).
