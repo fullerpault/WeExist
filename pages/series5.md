@@ -1,6 +1,6 @@
 ---
 title: Stories of African American Education and Employment in Maine
-layout: page
+layout: page-narrow
 permalink: /educationemployment.html
 ---
 

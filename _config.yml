@@ -18,14 +18,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: We Exist 5
+title: We Exist
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: We Exist 5 - Education & Employment
+tagline: We Exist - African American history in Maine
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "We Exist 5 looks at the history of African American education and employment in Maine."
+description: "We Exist is an ongoing six-part series looking at the history of Maine's African American communities."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: maine;history;african americans;education;employment
+keywords: maine;history;african americans;family;activism;civil rights;community;religion;church;leisure;lifestyle;education;employment
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: fullerpault
 

@@ -14,9 +14,17 @@ credits: true
 
 ## About We Exist
 
-*We Exist* is a 6-part series looking at the history of Maine's African American communities.
+*We Exist* is an ongoing six-part series looking at the history of Maine's African American communities.
 
-*We Exist: African Americans' Education and Employment in Maine* is the fifth of a six-part digital exhibit series.
+[Evidence of Maine’s Black Families from 1800 to the 20th Century](/families.html) focuses on the family with specific interests in family demography, childhood experiences (parents and offspring), parent-child relationships (attitudes and behaviors), romantic relationships, and family traditions, of Black inhabitants who lived or are currently living in Maine from the 1800s to the 20th century.
+
+[Maine’s Black Residents and Civil Rights Activism](/activism.html) centers on Black families and individuals in the state of Maine and seeks to tell their stories of how they engaged in various Civil Rights moments.
+
+[The Black Church, Maine’s Black Residents, and the Wider Community](/community.html) explores the various relationships between Black parishioners and the Black church, and the community at large.
+
+[African Americans' Leisure Lifestyle in Maine](/leisure.html) explores the nuances of African American leisure participation, especially as it relates to Maine.
+
+We hope the digital exhibit transmits to a wide and diverse audience who may not have otherwise engaged with this aspect of Maine’s history. Also, we hope the exhibit serves as a guide for other institutions to follow that want to engage in the larger discussion on Black inhabitants relaying their histories through their own voices.
 
 ### Acknowledgements
 
