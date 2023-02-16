@@ -52,8 +52,8 @@ metadata: we5_metadata
 #
 organization-name: "University of Southern Maine - Digital Projects"
 organization-link: https://usm.maine.edu/library/
-organization-logo-banner: https://usm.maine.edu/wp-content/uploads/2022/07/USM_headerLogo.png
-organization-logo-nav: https://usm.maine.edu/wp-content/uploads/2022/07/USM_headerLogo-275x67.png
+organization-logo-banner: /assets/img/USMLogo_horizontal.png
+organization-logo-nav: /assets/img/USMLogo_horizontal_white.png
 
 ##########
 # GOOGLE SERVICES [optional!]
